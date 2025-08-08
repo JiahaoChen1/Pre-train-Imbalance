@@ -6,6 +6,7 @@ Long-tailed learning has garnered increasing attention due to its practical sign
 
 ## Requirements
 Please refer to [LIFT](https://github.com/shijxcs/LIFT/blob/main/)
+The  version of OpenCLIP is ```huggingface/hub/models--laion--CLIP-ViT-B-16-laion2B-s34B-b88K/open_clip_pytorch_model.bin```
 
 
 ## Quick start on ImageNet-LT
